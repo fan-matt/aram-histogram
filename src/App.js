@@ -20,6 +20,8 @@ function App() {
       setChamps(data.split('\n'));
     });
 
+    handleResize();
+
     window.addEventListener('resize', handleResize);
 
     return () => {
