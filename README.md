@@ -1,3 +1,8 @@
+Tracks the champions that appear in our ARAM games. We're curious to know what the distribution looks like.
+
+Updates in real time from a Google Doc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
